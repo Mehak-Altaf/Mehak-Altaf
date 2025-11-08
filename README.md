@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mehak Altaf</h1>
-<h3 align="center">A Passionate Frontend Developer from Pakistan</h3>
+<h3 align="center">Frontend Developer | Building Modern & Responsive Web Interfaces</h3>
 
 🔭 I’m currently working on developing responsive and user-friendly web applications.  
 🌱 I’m currently learning JavaScript ES6+, React JS, Tailwind CSS, APIs, and modern UI frameworks.  

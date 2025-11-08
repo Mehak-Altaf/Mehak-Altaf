@@ -4,7 +4,7 @@
 🔭 I’m currently working on developing responsive and user-friendly web applications.  
 🌱 I’m currently learning JavaScript ES6+, React JS, Tailwind CSS, APIs, and modern UI frameworks.  
 💬 Ask me about HTML, CSS, JavaScript, Bootstrap, React JS, Git & GitHub, Responsive UI, and APIs.  
-📫 Reach me at **mehakaltaf0000@gmail.com**
+📫 Reach me at **mehakaltaf751@gmail.com**
 
 ---
 

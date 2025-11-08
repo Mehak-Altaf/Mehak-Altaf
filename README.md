@@ -11,7 +11,7 @@
 ### 🌐 Connect with me:
 <p>
 <a href="https://github.com/Mehak-Altaf" target="_blank">GitHub: MehakAltaf</a><br>
-<a href="https://www.linkedin.com" target="_blank">LinkedIn: Mehak Altaf</a>
+<a href="https://www.linkedin.com/in/mehak-altaf-767460304/" target="_blank">LinkedIn: Mehak Altaf</a>
 </p>
 
 ---

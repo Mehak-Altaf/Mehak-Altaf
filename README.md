@@ -29,15 +29,6 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-plain.svg" alt="photoshop" width="40"/>
 </p>
-
----
-
-### 📊 GitHub Stats:
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=MehakAltaf&show_icons=true&theme=react" width="48%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=MehakAltaf&theme=react" width="48%"/>
-</p>
-
 ---
 
 ⭐️ _“Code with passion, design with creativity.”_

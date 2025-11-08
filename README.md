@@ -10,7 +10,7 @@
 
 ### 🌐 Connect with me:
 <p>
-<a href="https://github.com/MehakAltaf" target="_blank">GitHub: MehakAltaf</a><br>
+<a href="https://github.com/Mehak-Altaf" target="_blank">GitHub: MehakAltaf</a><br>
 <a href="https://www.linkedin.com" target="_blank">LinkedIn: Mehak Altaf</a>
 </p>
 

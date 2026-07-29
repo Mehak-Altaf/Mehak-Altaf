@@ -1,34 +1,119 @@
 <h1 align="center">Hi 👋, I'm Mehak Altaf</h1>
-<h3 align="center">Frontend Developer | Building Modern & Responsive Web Interfaces</h3>
 
-🔭 I’m currently working on developing responsive and user-friendly web applications.  
-🌱 I’m currently learning JavaScript ES6+, React JS, Tailwind CSS, APIs, and modern UI frameworks.  
-💬 Ask me about HTML, CSS, JavaScript, Bootstrap, React JS, Git & GitHub, Responsive UI, and APIs.  
-📫 Reach me at **mehakaltaf751@gmail.com**
+<h3 align="center">
+Frontend Developer | React.js Developer | Software Engineering Student
+</h3>
+
+<p align="center">
+Building modern, responsive and user-friendly web applications with React.js and modern frontend technologies.
+</p>
 
 ---
 
-### 🌐 Connect with me:
+## 👩‍💻 About Me
+
+- 🎓 Software Engineering Student at **Muhammad Ali Jinnah University (MAJU)**
+- 💻 Passionate about Frontend Development
+- 🌱 Currently learning **Next.js, Docker, SQL, Node.js & Express.js**
+- 🚀 Interested in building scalable, responsive and modern web applications
+- 🤝 Open to Internship & Frontend Developer Opportunities
+- 📫 Reach me at **mehakaltaf751@gmail.com**
+
+---
+
+## 🌐 Connect With Me
+
+- GitHub: https://github.com/Mehak-Altaf
+- LinkedIn: https://linkedin.com/in/your-linkedin-username
+
+---
+
+## 💻 Tech Stack
+
+### Frontend
+
 <p>
-<a href="https://github.com/Mehak-Altaf" target="_blank">GitHub: MehakAltaf</a><br>
-<a href="https://www.linkedin.com/in/mehak-altaf-767460304/" target="_blank">LinkedIn: Mehak Altaf</a>
+<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,react,vite,nextjs" />
+</p>
+
+### Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
+
+### Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql" />
+</p>
+
+### Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,docker,vscode,figma" />
+</p>
+
+### Programming Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=js,python" />
 </p>
 
 ---
 
-### 🛠️ Languages & Tools:
-<p align="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="js" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-plain.svg" alt="photoshop" width="40"/>
-</p>
+## 🚀 Skills
+
+- HTML5
+- CSS3
+- JavaScript (ES6+)
+- Bootstrap
+- Tailwind CSS
+- React.js
+- React Router
+- Vite
+- Responsive Web Design
+- Next.js (Learning)
+- Node.js
+- Express.js
+- REST APIs
+- SQL
+- MySQL
+- CRUD Operations
+- Git & GitHub
+- Docker
+- VS Code
+- Figma
+
 ---
 
-⭐️ _“Code with passion, design with creativity.”_
+## 📂 Featured Projects
+
+- 🌦 Weather App
+- 💱 Currency Converter
+- 🏥 Clinic Appointment System
+- 🤖 AI Answer Box
+- 🌐 Portfolio Website
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Mehak-Altaf&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mehak-Altaf&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=Mehak-Altaf&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+## ✨ Quote
+
+> **"Code with passion. Build with purpose. Keep learning."**

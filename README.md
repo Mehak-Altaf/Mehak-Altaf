@@ -97,20 +97,7 @@ Building modern, responsive and user-friendly web applications with React.js and
 
 ---
 
-## 📊 GitHub Stats
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Mehak-Altaf&show_icons=true&theme=github_dark&hide_border=true&cache_seconds=1800" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mehak-Altaf&layout=compact&theme=github_dark&hide_border=true" />
-</p>
----
-
-## 🔥 GitHub Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Mehak-Altaf&theme=github-dark-blue&hide_border=true"/>
-</p>
----
 
 ## ✨ Quote
 

@@ -8,9 +8,6 @@ Frontend Developer | React.js Developer | Software Engineering Student
 Building modern, responsive and user-friendly web applications with React.js and modern web technologies.
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Mehak-Altaf&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
-</p>
 
 ---
 
@@ -32,7 +29,7 @@ Building modern, responsive and user-friendly web applications with React.js and
 <img src="https://skillicons.dev/icons?i=github" width="45"/>
 </a>
 
-<a href="https://linkedin.com/in/YOUR-LINKEDIN-USERNAME">
+<a href="https://www.linkedin.com/in/mehak-altaf-767460304/">
 <img src="https://skillicons.dev/icons?i=linkedin" width="45"/>
 </a>
 
@@ -88,7 +85,6 @@ Building modern, responsive and user-friendly web applications with React.js and
 - React Router
 - Vite
 - Responsive Web Design
-- Next.js (Learning)
 - Node.js
 - Express.js
 - REST APIs

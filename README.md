@@ -25,7 +25,6 @@
 - 💻 **MERN Stack Developer** — building full-stack web applications with MongoDB, Express.js, React.js & Node.js
 - 🌱 Currently deepening my skills in **Next.js, Docker, SQL & System Design**
 - 🚀 Passionate about writing clean code, scalable architecture, and great user experience
-- 🤝 Open to **Internship & Full-Time MERN / Frontend Developer** opportunities
 - 📫 Reach me at **mehakaltaf751@gmail.com**
 
 ---
